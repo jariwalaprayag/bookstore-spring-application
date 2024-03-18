@@ -100,5 +100,3 @@ create table bookstore.purchase_detail
 	date_purchased timestamp default now()
 );
 ```
-## Useful? Give it a star✨✨🤩
-# Thanks
